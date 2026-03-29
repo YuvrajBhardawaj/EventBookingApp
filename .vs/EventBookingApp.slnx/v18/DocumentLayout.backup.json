@@ -71,8 +71,7 @@
               "RelativeToolTip": "EventBookingApp.Application\\Services\\BookingService.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAswGUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:13:55.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:13:55.341Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "EventBookingApp.Application\\Services\\EventService.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAwwDYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:12:59.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:12:59.988Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "EventBookingApp.Infrastructure\\Repositories\\EventRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:12:34.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:12:34.702Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "EventBookingApp.Application\\DTOs\\EventDto.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:11:35.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:11:35.022Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "EventBookingApp.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:10:18.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:10:18.831Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "EventBookingApp.Domain\\Entities\\Venue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:09:21.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:09:21.135Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "EventBookingApp.Domain\\Entities\\Seat.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:09:19.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:09:19.037Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "EventBookingApp.Domain\\Entities\\Event.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:09:17.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T12:09:17.805Z"
             }
           ]
         }
