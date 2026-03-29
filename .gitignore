@@ -1,0 +1,51 @@
+## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+out/
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## Logs
+*.log
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+## ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+
+## Publish output
+publish/
+
+## Entity Framework
+Migrations/
+
+## Test results
+TestResults/
+
+## Coverage files
+coverage/
+*.coverage
+
+## Node (if Angular frontend inside)
+node_modules/
+dist/
+
+## Environment variables
+.env
