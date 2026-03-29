@@ -1,0 +1,11 @@
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\bin\Debug\net10.0\EventBookingApp.Domain.deps.json
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\bin\Debug\net10.0\EventBookingApp.Domain.dll
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\bin\Debug\net10.0\EventBookingApp.Domain.pdb
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\EventBookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\EventBookingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\EventBookingApp.Domain.AssemblyInfo.cs
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\EventBookingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\EventBookingApp.Domain.dll
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\refint\EventBookingApp.Domain.dll
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\EventBookingApp.Domain.pdb
+C:\Users\Aditya UJJAWAL\Desktop\Yuvraj\EventBookingApp\EventBookingApp.Domain\obj\Debug\net10.0\ref\EventBookingApp.Domain.dll

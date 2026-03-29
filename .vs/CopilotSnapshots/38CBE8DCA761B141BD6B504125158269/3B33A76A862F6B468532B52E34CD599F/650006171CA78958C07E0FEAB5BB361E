@@ -1,0 +1,20 @@
+﻿using EventBookingApp.Domain.Entities;
+using EventBookingApp.Domain.Interfaces;
+using EventBookingApp.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
+
+namespace EventBookingApp.Infrastructure.Repositories;
+
+public class EventRepository : BaseRepository<Event>, IEventRepository
+{
+    public EventRepository(AppDbContext context) : base(context) { }
+
+    public async Task<IEnumerable<Event>> GetUpcomingEventsAsync()
+    {
+        return await _context.Events
+            .Include(e => e.Venue)
+            .Where(e => e.Status == EventStatus.Upcoming && e.EventDate > DateTime.UtcNow)
+            .OrderBy(e => e.EventDate)
+            .ToListAsync();
+    }
+}

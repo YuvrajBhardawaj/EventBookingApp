@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EventBookingApp.Domain/1.0.0": {
+        "runtime": {
+          "EventBookingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventBookingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
